@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deepakjsr25@gmail.com**
 
-- ⚡ Fun fact **Eat sleep code repeat but still a noobcoder.**
+- ⚡ Fun fact **I Eat sleep code repeat but still a noobcoder.**
 
 ## 🚀 Languages and Tools:
 
