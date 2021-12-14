@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Deepak Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepakjsr25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Deepak Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepakjsr25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -80,4 +80,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deepakjsr25">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="" alt="GitHub Badge"></a>
